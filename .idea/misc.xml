@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/drawable/facebook.xml" value="0.292" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/card_layout.xml" value="0.33" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/card_layout2.xml" value="0.33" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/categoria_layout.xml" value="0.13956433637284701" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/descricao_layout.xml" value="0.25" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_apresentacao.xml" value="0.3509963768115942" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_cadastro_usuario2.xml" value="0.22" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_cadastrousuario1.xml" value="0.25" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_carrinho.xml" value="0.33" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_categoria.xml" value="0.22" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_descricao_prod.xml" value="0.3182291666666667" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_descricao_produto.xml" value="0.25" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_doacao.xml" value="0.1638655462184874" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_form.xml" value="0.18" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_home.xml" value="0.21" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_list_carrinho.xml" value="0.33" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_list_produto.xml" value="0.17147922998986828" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_login.xml" value="0.33" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_produto.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_recuperar_conta.xml" value="0.22" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_sobre_nos.xml" value="0.25" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/fragment_support.xml" value="0.30416666666666664" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/layout/toolbar.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/menu/nav_bar.xml" value="0.3435185185185185" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Backup-Uana/app/src/main/res/menu/nav_carrinho.xml" value="0.3435185185185185" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/LayoutLogin/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.292" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/LayoutLogin/app/src/main/res/drawable/google.xml" value="0.292" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/LayoutLogin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.292" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Uana-AndroidStudio/app/src/main/res/layout/activity_main.xml" value="0.30480072463768115" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Uana-AndroidStudio/app/src/main/res/layout/card_layout.xml" value="0.33" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Uana-AndroidStudio/app/src/main/res/layout/fragment_form.xml" value="0.33" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Uana-AndroidStudio/app/src/main/res/layout/fragment_produto.xml" value="0.22" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Uana/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Uana/app/src/main/res/layout/card_layout.xml" value="0.253125" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Uana/app/src/main/res/layout/fragment_form.xml" value="0.25" />
+        <entry key="..\:/Users/vicen/AndroidStudioProjects/Uana/app/src/main/res/layout/fragment_produto.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
